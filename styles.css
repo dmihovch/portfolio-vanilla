@@ -2,3 +2,19 @@
     border-radius: 10px;
     border-width: 10px;
 }
+
+body {
+    background-color: #948d56;
+}
+
+#term-wrap {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    height: 90dvh;
+    width: 90dvw;
+
+    border-radius: 5px;
+}
